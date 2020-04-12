@@ -4,3 +4,8 @@ target
 *.iml
 log
 *.patch
+/ReleaseNotes.md
+/cv.md
+/description.md
+/graduation.md
+/doc/lesson07.md
